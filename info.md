@@ -2,3 +2,5 @@
 
 > git status - eto
 
+> git add - eto
+
